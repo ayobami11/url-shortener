@@ -16,7 +16,7 @@ const Nav = styled.nav`
     transform: translateX(-50%);
     z-index: 10;
 
-    transition: all 1s ease-in-out;
+    transition: all 300ms ease-in-out;
 
     text-align: center;
     width: 90%;

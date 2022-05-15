@@ -172,6 +172,8 @@ const Form = () => {
                     });
 
                     setLink('');
+                    setErrorMessage('');
+                    setShowMessage(false);
                 }
             } catch (error) {
                 console.log(error);
